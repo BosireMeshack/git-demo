@@ -1,3 +1,6 @@
 echo "I am in the Deik building of the University of Debrecen"
 
 Hello everyone!
+
+Welcome to my epam github course
+I have a goal of getting into the mentorship program at epam
